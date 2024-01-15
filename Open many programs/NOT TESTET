@@ -1,0 +1,83 @@
+DELAY 500
+REM Open Notepad
+WINDOWS r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+REM Type a message
+STRING Hello there! Enjoy the cascade of programs! 😄
+ENTER
+DELAY 500
+REM Open Calculator
+WINDOWS r
+DELAY 500
+STRING calc
+ENTER
+DELAY 500
+REM Open Paint
+WINDOWS r
+DELAY 500
+STRING mspaint
+ENTER
+DELAY 500
+REM Open Command Prompt
+WINDOWS r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 500
+REM Open File Explorer
+WINDOWS r
+DELAY 500
+STRING explorer
+ENTER
+DELAY 500
+REM Open WordPad
+WINDOWS r
+DELAY 500
+STRING write
+ENTER
+DELAY 500
+REM Open PowerPoint
+WINDOWS r
+DELAY 500
+STRING powerpnt
+ENTER
+DELAY 500
+REM Open Task Manager
+CTRL SHIFT ESC
+DELAY 500
+REM Open Calculator again
+WINDOWS r
+DELAY 500
+STRING calc
+ENTER
+DELAY 500
+REM Open Paint again
+WINDOWS r
+DELAY 500
+STRING mspaint
+ENTER
+DELAY 500
+REM Open Notepad again
+WINDOWS r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 500
+REM Open Snipping Tool
+WINDOWS r
+DELAY 500
+STRING snippingtool
+ENTER
+DELAY 500
+REM Open Control Panel
+WINDOWS r
+DELAY 500
+STRING control
+ENTER
+DELAY 500
+REM Open Disk Cleanup
+STRING cleanmgr
+ENTER
